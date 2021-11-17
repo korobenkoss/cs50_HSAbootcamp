@@ -1,0 +1,12 @@
+{
+  "name": "bootcamp_day1_exercises",
+  "version": "1.0.0",
+  "description": "HSA bootcamp day1 exercises",
+  "main": "app.js",
+  "keywords": [],
+  "author": "Ihor Korobenko",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
